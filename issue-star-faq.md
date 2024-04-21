@@ -1,7 +1,7 @@
 ## Issue Star FAQs
 {:.no_toc}
 
-<img alt="icon" src="{{ 'assets/pinned-comments-icon.svg' | relative_url }}" width="32" height="32"/> 
+<img alt="icon" src="{{ 'assets/star-favorite-svgrepo.svg' | relative_url }}" width="32" height="32"/> 
 
 Using the Issue Star app, you can favorite and apply personal labels to Issues.
 
