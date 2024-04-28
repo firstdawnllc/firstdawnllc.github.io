@@ -8,6 +8,20 @@ Using the Pinned Comments app, you can place your most important comments at the
 1. Contents
 {:toc}
 
+### How can I pin a comment?
+You can pin a comment in two ways:
+
+1. **Using the `Pinned Comments` Issue Activity**.
+    - Open the `Pinned Comments` Issue Activity by clicking on the `Pinned Comments` button towards the bottom of your Issue. (Depending on your screen width, the button may be rendered as part of drop down menu).
+    - Find the comment you'd like to pin, and then click `Pin Comment`.
+    - ![pinned-comments-add-pin-activity](/assets/pinned-comments-add-pin-activity.png)
+
+2. **Using the comment's link or ID.**
+    - Open the `Pinned Comments` app by clicking on its icon in the app ribbon at the top of the issue.
+    - Then - in the regular comments section at the bottom of the Issue - copy the link to the comment you'd like to pin (look for the link icon that appears when you hover near the time stamp).
+    - Finally, paste the link into the form that renders in the `Pinned Comments` app and hit `Pin`.
+    - ![pinned-comments-add-pin-form](/assets/pinned-comments-add-pin-form.png)
+
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
