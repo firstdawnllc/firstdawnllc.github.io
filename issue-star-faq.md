@@ -8,6 +8,9 @@ Using the Issue Star app, you can favorite and apply personal labels to Issues.
 1. Contents
 {:toc}
 
+### How can I get add an Issue to my favorites?
+First, open the Issue Star app using the app ribbon on the top of the Issue, or the Issue Star "context" to the right of your Issue. Then, select the ⭐ from the dropdown and save.
+
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
