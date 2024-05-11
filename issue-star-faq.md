@@ -3,7 +3,9 @@
 
 <img alt="icon" src="{{ 'assets/star-favorite-svgrepo.svg' | relative_url }}" width="32" height="32"/> 
 
-Using the Issue Star app, you can add Issues to your personal favorites list. Favorites are scoped to individual user accounts, so everyone on your team can favorite issues independently.
+Using the Issue Star app, you can add Issues to your personal favorites list. 
+
+Favorites are scoped to individual user accounts, so everyone on your team can favorite issues independently.
 
 1. Contents
 {:toc}
@@ -37,12 +39,14 @@ You should be directed to the default Jira search view. Now, click the `Configur
 You can also learn more about the JQL supported by Issue Star by going to the Issue Star Settings page and opening the `JQL Search Tips` tab at the top of the page.
 
 ### How can I quickly add or remove Issues from my personal favorites lists?
-You can use the multi edit view to quickly add or remove Issues from your personal favorites lists. 
+You can use the `Multi Edit` view to quickly add or remove Issues from your personal favorites lists. 
 
 Navigate to the `Settings` page, then click on the `Multi Edit` tab, and use the form to quickly update your personal favorites lists. You can add or remove favorite marks from multiple Issues at a time. 
 
 The following screenshot, for example, shows the `Multi Edit` view removing two Issues from the "special project" favorites list:
 ![issue-star-multi-edit](/assets/issue-star-multi-edit.png)
+
+In addition to removing multiple Issues from a favorites list, you can also add multiple Issues to a favorites list using the `Multi Edit` view.
 
 ### How can I open the Issue Star Settings page?
 - First, open the Issue Star app using the app ribbon on the top of the Issue. 
