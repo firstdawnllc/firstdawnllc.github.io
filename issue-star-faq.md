@@ -29,6 +29,12 @@ You can use Jira's standard search feature to find Issues that you have added to
 To get started with the necessary JQL, open the Issue Star app, and then click the `View all your marked issues` link:
 ![issue-star-view-all-marked-issues](/assets/issue-star-view-all-marked-issues.png)
 
+You should be directed to the default Jira search view. Now, click the `Configure Columns` button on the right hand side of the screen so that the `issue_star_object` column renders in your results:
+
+![issue-star-jql-search-column](/assets/issue-star-jql-search-column.png)
+![issue-star-jql-search-results](/assets/issue-star-jql-search-results.png)
+
+
 You can also learn more about the JQL supported by Issue Star by going to the Issue Star Settings page and opening the "JQL Search Tips" tab at the top of the page.
 
 ### How can I request a discount?
