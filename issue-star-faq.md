@@ -8,8 +8,8 @@ Using the Issue Star app, you can add Issues to your personal favorites list. Fa
 1. Contents
 {:toc}
 
-### How can I get add an Issue to my personal favorites list?
-First, open the Issue Star app using the app ribbon on the top of the Issue, or the Issue Star "context" to the right of your Issue. Then, select the ⭐ from the dropdown and save.
+### How can I add an Issue to my personal favorites list?
+First, open the Issue Star app using the app ribbon on the top of the Issue. Then, select the ⭐ from the dropdown and click `Save Marks`.
 
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
