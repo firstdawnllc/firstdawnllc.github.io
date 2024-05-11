@@ -9,24 +9,27 @@ Using the Pinned Comments app, you can place your most important comments at the
 {:toc}
 
 ### How can I pin a comment?
-You can pin a comment in two ways:
+The easiest way to pin a comment is using the Pinned Comments Issue Activity:
 
-1. **Using the Pinned Comments Issue Activity.**
-    - Open the `Pinned Comments` Issue Activity by clicking on the `Pinned Comments` button towards the bottom of your Issue. (Depending on your screen width, the button may be rendered as part of drop down menu).
-    - Find the comment you'd like to pin, and then click `Pin Comment`.
-    - ![pinned-comments-add-pin-activity](/assets/pinned-comments-add-pin-activity.png)
+#### Pinning a Comment Using the Pinned Comments Issue Activity
+- Open the `Pinned Comments` Issue Activity by clicking on the `Pinned Comments` button towards the bottom of your Issue. (Depending on your screen width, the button may be rendered as part of drop down menu).
+- Find the comment you'd like to pin, and then click `Pin Comment`.
+![pinned-comments-add-pin-activity](/assets/pinned-comments-add-pin-activity.png)
 
-2. **Using the comment's ID or link.**
-    - Open the `Pinned Comments` app by clicking on its icon in the app ribbon at the top of the issue.
-    - Then - in the regular comments section at the bottom of the Issue - copy the link to the comment you'd like to pin (look for the link icon that appears when you hover near the time stamp).
-    - Finally, paste the link into the form that renders in the `Pinned Comments` app and hit `Pin`.
-    - ![pinned-comments-add-pin-form](/assets/pinned-comments-add-pin-form.png)
+Alternatively, you can pin a comment using the comment's ID or link:
 
-### How can I get support?
-Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
+#### Alternate Option: Pinning a Comment Using Its ID Or Link
+
+- Open the `Pinned Comments` app by clicking on its icon in the app ribbon at the top of the issue.
+- Then - in the regular comments section at the bottom of the Issue - copy the link to the comment you'd like to pin (look for the link icon that appears when you hover near the time stamp).
+- Finally, paste the link into the form that renders in the `Pinned Comments` app and hit `Pin`.
+![pinned-comments-add-pin-form](/assets/pinned-comments-add-pin-form.png)
 
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
+
+### How can I get support?
+Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
