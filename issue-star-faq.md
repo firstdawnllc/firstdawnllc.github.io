@@ -23,6 +23,14 @@ Using the Issue Star app, you can add Issues to your personal favorites list. Fa
 - Now, you should see your custom set of favorites lists render in the Issue view drop down:
 ![issue-star-dropdown](/assets/issue-star-dropdown.png)
 
+### How can I find issues that I have added to a favorites list?
+You can use Jira's standard search feature to find Issues that you have added to your personal favorites lists. 
+
+To get started with the necessary JQL, open the Issue Star app, and then click the `View all your marked issues` link:
+![issue-star-view-all-marked-issues](/assets/issue-star-view-all-marked-issues.png)
+
+You can also learn more about the JQL supported by Issue Star by going to the Issue Star Settings page and opening the "JQL Search Tips" tab at the top of the page.
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
