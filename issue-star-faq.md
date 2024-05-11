@@ -44,7 +44,7 @@ Navigate to the `Settings` page, then click on the `Multi Edit` tab, and use the
 The following screenshot, for example, shows the `Multi Edit` view removing two Issues from the "special project" favorites list:
 ![issue-star-multi-edit](/assets/issue-star-multi-edit.png)
 
-## Hwo can I open the Issue Star Settings page?
+### Hwo can I open the Issue Star Settings page?
 - First, open the Issue Star app using the app ribbon on the top of the Issue. 
 - Then, from within the Issue star app pane, click on the `Settings` link:
 ![issue-star-settings-link](/assets/issue-star-settings-link.png)
@@ -55,7 +55,7 @@ If you'd like to request a discount, contact us through the [support portal](htt
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
-## Additional Links
+### Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/issue-star-privacy)
 - [End User License Agreement](issue-star-eula)
