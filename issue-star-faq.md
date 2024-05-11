@@ -34,8 +34,12 @@ You should be directed to the default Jira search view. Now, click the `Configur
 ![issue-star-jql-search-column](/assets/issue-star-jql-search-column.png)
 ![issue-star-jql-search-results](/assets/issue-star-jql-search-results.png)
 
-
 You can also learn more about the JQL supported by Issue Star by going to the Issue Star Settings page and opening the "JQL Search Tips" tab at the top of the page.
+
+## How can I quickly add or remove Issues from my personal favorites lists?
+You can use the multi edit view to quickly add or remove Issues from your personal favorites lists. Navigate to the Settings page, then click on the Multi Edit tab, and use the form to quickly update your personal favorites lists:
+
+![issue-star-multi-edit](/assets/issue-star-multi-edit.png)
 
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
