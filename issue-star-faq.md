@@ -36,7 +36,7 @@ You should be directed to the default Jira search view. Now, click the `Configur
 
 You can also learn more about the JQL supported by Issue Star by going to the Issue Star Settings page and opening the `JQL Search Tips` tab at the top of the page.
 
-## How can I quickly add or remove Issues from my personal favorites lists?
+### How can I quickly add or remove Issues from my personal favorites lists?
 You can use the multi edit view to quickly add or remove Issues from your personal favorites lists. 
 
 Navigate to the `Settings` page, then click on the `Multi Edit` tab, and use the form to quickly update your personal favorites lists. You can add or remove favorite marks from multiple Issues at a time. 
@@ -44,7 +44,7 @@ Navigate to the `Settings` page, then click on the `Multi Edit` tab, and use the
 The following screenshot, for example, shows the `Multi Edit` view removing two Issues from the "special project" favorites list:
 ![issue-star-multi-edit](/assets/issue-star-multi-edit.png)
 
-### Hwo can I open the Issue Star Settings page?
+### Hoo can I open the Issue Star Settings page?
 - First, open the Issue Star app using the app ribbon on the top of the Issue. 
 - Then, from within the Issue star app pane, click on the `Settings` link:
 ![issue-star-settings-link](/assets/issue-star-settings-link.png)
