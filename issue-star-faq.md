@@ -20,6 +20,9 @@ Using the Issue Star app, you can add Issues to your personal favorites list. Fa
 - Then, you can use the form on the Setting page to customize multiple personal favorites list with custom labels:
 ![issue-star-multiple-favorites-lists](/assets/issue-star-multiple-favorites-lists.png)
 
+- Now, you should see your custom set of favorites lists render in the Issue view drop down:
+![issue-star-dropdown](/assets/issue-star-dropdown.png)
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
