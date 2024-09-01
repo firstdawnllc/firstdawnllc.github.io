@@ -16,5 +16,5 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
-- [Privacy Policy](/issue-to-comment-privacy)
-- [End User License Agreement](issue-to-comment-eula)
+- [Privacy Policy](/comment-to-issue-privacy)
+- [End User License Agreement](comment-to-issue-eula)
