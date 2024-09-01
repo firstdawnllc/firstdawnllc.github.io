@@ -1,7 +1,7 @@
 ## Issue to Comment FAQs
 {:.no_toc}
 
-<img alt="icon" src="{{ 'assets/comment-to-issue-icon.svg' | relative_url }}" width="32" height="32"/> 
+<img alt="icon" src="{{ 'assets/comment-to-issue-icon.svg' | relative_url }}" width="64" height="64"/> 
 
 Using the Issue to Comment app, you can place convert important comments on your issues into new subtasks and issues.
 
