@@ -3,7 +3,7 @@
 
 <img alt="icon" src="{{ 'assets/star-favorite-svgrepo.svg' | relative_url }}" width="32" height="32"/> 
 
-Using the Issue Star app, you can add Issues to your personal favorites list. 
+Using the [Issue Star app](https://marketplace.atlassian.com/1234079), you can add Issues to your personal favorites list. 
 
 Favorites are scoped to individual user accounts, so everyone on your team can favorite issues independently.
 
@@ -63,4 +63,4 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/issue-star-privacy)
 - [End User License Agreement](issue-star-eula)
-- [Atlassian Listing](https://marketplace.atlassian.com/1234079)
+- [Issue Star on Atlassian Marketplace](https://marketplace.atlassian.com/1234079)
