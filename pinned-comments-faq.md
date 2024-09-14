@@ -3,7 +3,7 @@
 
 <img alt="icon" src="{{ 'assets/pinned-comments-icon.svg' | relative_url }}" width="32" height="32"/> 
 
-Using the Pinned Comments app, you can place your most important comments at the top of an issue.
+Using the [Pinned Comments app](https://marketplace.atlassian.com/1234011), you can place your most important comments at the top of an issue.
 
 1. Contents
 {:toc}
@@ -35,4 +35,4 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/pinned-comments-privacy)
 - [End User License Agreement](pinned-comments-eula)
-- [Atlassian Listing](https://marketplace.atlassian.com/apps/1234011)
+- [Pinned Comments on Atlassian Marketplace](https://marketplace.atlassian.com/apps/1234011)
