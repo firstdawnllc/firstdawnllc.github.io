@@ -3,7 +3,7 @@
 
 <img alt="icon" src="{{ 'assets/comment-to-issue-icon.svg' | relative_url }}" width="64" height="64"/> 
 
-Using the Comment to Issue app, you can convert important comments on your issues into new subtasks and issues.
+Using the [Comment to Issue app](https://marketplace.atlassian.com/1235239), you can convert important comments on your issues into new subtasks and issues.
 
 1. Contents
 {:toc}
@@ -26,3 +26,4 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/comment-to-issue-privacy)
 - [End User License Agreement](comment-to-issue-eula)
+- [Comment to Issue on Atlassian Marketplace](https://marketplace.atlassian.com/1235239)
