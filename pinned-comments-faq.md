@@ -32,16 +32,19 @@ You can view pinned comments in one of three places - use whichever is most conv
 #### 1. View Pinned Comments Under the Issue Description
 
 One place you can view pinned comments is under the issue description:
+
 ![pinned-comments-view-below-issue-description](/assets/pinned-comments-view-below-issue-description.png)
 
 #### 2. View Pinned Comments To the Right of the Issue
 
 A second place you can view pinned comments in the issue context box to the right of your issue:
+
 ![pinned-comments-view-issue-context-right](/assets/pinned-comments-view-issue-context-right.png)
 
 #### 3. View Pinned Comments Next to Regular Comments
 
 A third place you can view pinned comments is in a dedicated issue activity at the bottom of your issue (next to regular comments):
+
 ![pinned-comments-view-issue-activity-bottom](/assets/pinned-comments-view-issue-activity-bottom.png)
 
 ### How can I request a discount?
