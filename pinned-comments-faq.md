@@ -25,6 +25,25 @@ Alternatively, you can pin a comment using the comment's ID or link:
 - Finally, paste the link into the form that renders in the `Pinned Comments` app and hit `Pin`.
 ![pinned-comments-add-pin-form](/assets/pinned-comments-add-pin-form.png)
 
+### How can I view pinned comments?
+
+You can view pinned comments in one of three places - use whichever is most convenient for you.
+
+#### 1. View Pinned Comments Under the Issue Description
+
+One place you can view pinned comments is under the issue description:
+![pinned-comments-view-below-issue-description](/assets/pinned-comments-view-below-issue-description.png)
+
+#### 2. View Pinned Comments To the Right of the Issue
+
+A second place you can view pinned comments in the issue context box to the right of your issue:
+![pinned-comments-view-issue-context-right](/assets/pinned-comments-view-issue-context-right.png)
+
+#### 3. View Pinned Comments Next to Regular Comments
+
+A third place you can view pinned comments is in a dedicated issue activity at the bottom of your issue (next to regular comments):
+![pinned-comments-view-issue-activity-bottom](/assets/pinned-comments-view-issue-activity-bottom.png)
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
