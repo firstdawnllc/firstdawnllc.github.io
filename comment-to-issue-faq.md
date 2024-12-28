@@ -22,6 +22,9 @@ If you'd like to request a discount, contact us through the [support portal](htt
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
+### Related Jira Feature Requests + Community Posts
+- [JRACLOUD-77824](https://jira.atlassian.com/browse/JRACLOUD-77824) + [JRACLOUD-12880 - create new issue from comment](https://jira.atlassian.com/browse/JRACLOUD-12880)
+
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/comment-to-issue-privacy)
