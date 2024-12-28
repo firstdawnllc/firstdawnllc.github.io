@@ -59,6 +59,15 @@ If you'd like to request a discount, contact us through the [support portal](htt
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
+### Related Jira Feature Requests + Community Posts
+- [JRACLOUD-74384- Ability to star an issue in Jira Cloud](https://jira.atlassian.com/browse/JRACLOUD-74384)
+- [JRACLOUD-22552 - Add support for personal labels on issues](https://jira.atlassian.com/browse/JRACLOUD-22552)
+- [JRACLOUD-44982 - Ability to star (favourite) an issue in Jira](https://jira.atlassian.com/browse/JRACLOUD-44982)
+- [Community - Create a private favorite list - without adding labels](https://community.atlassian.com/t5/Jira-Service-Management/Create-a-private-favorite-list-without-adding-labels/qaq-p/832927)
+- [Community - Jira issues may have a "Private Label" for better issue management](https://community.atlassian.com/t5/Jira-questions/Jira-issues-may-have-a-quot-Private-Lable-quot-for-better-issue/qaq-p/1387427)
+- [Community - How do I star or favorite an issue?](https://community.atlassian.com/t5/Jira-questions/How-do-I-star-or-favorite-an-issue/qaq-p/1431583)
+- [Community - star a particular item?](https://community.atlassian.com/t5/Jira-questions/star-a-particular-item/qaq-p/1012200)
+
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/issue-star-privacy)
