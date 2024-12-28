@@ -53,6 +53,16 @@ If you'd like to request a discount, contact us through the [support portal](htt
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
+### Related Jira Feature Requests + Community Posts
+
+- [JRACLOUD-60438 - Pin multiple/important comments to the very top of issue](https://jira.atlassian.com/browse/JRACLOUD-60438)
+- [JSDCLOUD-10660 - Pin comments](https://jira.atlassian.com/browse/JSDCLOUD-10660)
+- [JRACLOUD-15441 - Provide a mechanism to flag comments as important](https://jira.atlassian.com/browse/JRACLOUD-15441)
+- [JRACLOUD-74995 - Pin a Comment on an Issue](https://jira.atlassian.com/browse/JRACLOUD-74995)
+- [Community - Sticky comments? Pin feature?](https://community.atlassian.com/t5/Jira-questions/Sticky-comments-Pin-feature/qaq-p/2351924#M265175)
+- [Community - Pin comment and pin attachment](https://community.atlassian.com/t5/Jira-questions/Pin-comment-and-pin-attachment/qaq-p/754075)
+- [Community - How to hide automated comments? Or pin manual comments?](https://community.atlassian.com/t5/Jira-questions/How-to-hide-automated-comments-Or-pin-manual-comments/qaq-p/1999853)
+
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/pinned-comments-privacy)
