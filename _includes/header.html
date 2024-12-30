@@ -21,13 +21,16 @@
         </label>
 
         <div class="trigger">
-          {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | first -%}
-            {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-            {%- endif -%}
-          {%- endfor -%}
-          <a target="_blank" rel="noopener noreferrer" class="page-link" href="https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1">Support Portal ↗</a>          
+          <span>
+            <a class="page-link" href="/pinned-comments-faq.html">Pinned Comments FAQs</a>
+            <a class="page-link" href="/lens-group-debugger-faq.html">Lens Group Debugger FAQs</a>
+            <a class="page-link" href="/issue-star-faq.html">Issue Star FAQs</a>
+          </span>
+          <p/>
+          <span>
+            <a class="page-link" href="/comment-to-issue-faq.html">Comment to Issue FAQs</a>
+            <a target="_blank" rel="noopener noreferrer" class="page-link" href="https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1">Support Portal ↗</a>          
+          </span>
         </div>
       </nav>
     {%- endif -%}
