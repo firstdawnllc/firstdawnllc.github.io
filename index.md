@@ -2,6 +2,7 @@
 - [Pinned Comments FAQs](/pinned-comments-faq)
 - [Issue Star FAQs](/issue-star-faq)
 - [Comment to Issue FAQs](/comment-to-issue-faq)
+- [Lens Group Debugger FAQs](/lens-group-debugger-faq)
 
 **General Links:**
 - [Atlassian Marketplace Vendor Page](https://marketplace.atlassian.com/vendors/1226209/)
