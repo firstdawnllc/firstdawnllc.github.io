@@ -22,6 +22,12 @@ The group detail page shows Project Roles, Custom Field references, Permission S
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
+### Can I export group usage data?
+
+You can export data that shows objects a group is related to. Access the report by clicking on the download icon on the group detail page. The report is formatted in JSON. Reach out to us if you need more help with the export feature.
+
+![lens-group-debugger-download-page](/assets/lens-group-debugger-download-page.png)
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
