@@ -24,7 +24,9 @@ The group detail page also has counts of line-item level sub-objects including P
 
 ### Can I find filters that are related to my group via plaintext references in their JQL?
 
-Yes, the group debugger page will show you Filters that are related to your group by the appearance of the group name in the JQL text. You'll also see Filters that are related via Edit/Share permissions to your group (potentially via a transitive Project Role relationship):
+Yes, the group debugger page will show you Filters that are related to your group by the appearance of the group name in the JQL text. These relationships will be specifically categorized as `Filter Jql Content` in the related objects table. 
+
+You'll also see Filters that are related via Edit/Share permissions to your group (potentially via a transitive Project Role relationship):
 
 ![lens-group-debugger-filter-page](/assets/lens-group-debugger-filter-page.png)
 
