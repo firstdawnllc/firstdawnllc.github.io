@@ -24,7 +24,7 @@ The group detail page also has counts of line-item level sub-objects including P
 
 ### What does `Self` mean in the `Related Via` Column of the Related Objects table?
 
-If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). 
+If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). For example, an `Issue Security Scheme Level` like `Allowed Users Only` can be associated directly to a group.
 
 Some objects can be related to a group transitively via a `Project Role` that is - in turn - associated to the group. Those objects `Related Via` column will instead list the `Project Role` that transitively creates the association between the object and the current group.
 
