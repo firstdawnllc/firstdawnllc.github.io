@@ -3,30 +3,24 @@
 
 <img alt="icon" src="{{ 'assets/group-icon.svg' | relative_url }}" width="32" height="32"/> 
 
-Using the [Leng Group Debugger](https://marketplace.atlassian.com/1236381) app for Jira, you cand determine where groups are used in your Jira instance, and identify + clean up group references across your projects.
+Using the [Lens Group Debugger](https://marketplace.atlassian.com/1236381) app for Jira, you can determine where groups are used in your Jira instance.
 
 1. Contents
 {:toc}
 
 ### What information is available on the group summary page?
 
-The group summary page renders a table with counts of related Users, Project Roles, Custom Fields, Permission Schemes, Issue Security Schemes, Notification Schemes, and Workflows in your groups.
+The group summary page renders a table with counts of related Users, Project Roles, Custom Fields, Permission Schemes, Issue Security Schemes, Notification Schemes, and Workflows in your groups:
 
 ![lens-group-debugger-summary-page](/assets/lens-group-debugger-list-page.png)
 
 ### What information is available on the group detail page?
 
-The group detail page shows Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group.
+The group detail page shows Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group:
 
 ![lens-group-debugger-detail-page](/assets/lens-group-debugger-detail-page.png)
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
-
-### What does `Self` mean in the `Related Via` Column of the Related Objects table?
-
-If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). For example, an `Issue Security Scheme Level` like `Allowed Users Only` can be associated directly to a group.
-
-Some objects can be related to a group transitively via a `Project Role` that is - in turn - associated to the group. Those objects `Related Via` column will instead list the `Project Role` that transitively creates the association between the object and the current group.
 
 ### Can I find filters that are related to my group via plaintext references in their JQL?
 
@@ -35,6 +29,12 @@ Yes, the group debugger page will show you Filters that are related to your grou
 You'll also see Filters that are related via Edit/Share permissions to your group (potentially via a transitive Project Role relationship):
 
 ![lens-group-debugger-filter-page](/assets/lens-group-debugger-filter-page.png)
+
+### What does `Self` mean in the `Related Via` Column of the Related Objects table?
+
+If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). For example, an `Issue Security Scheme Level` like `Allowed Users Only` can be associated directly to a group.
+
+Some objects can be related to a group transitively via a `Project Role` that is - in turn - associated to the group. Those objects `Related Via` column will instead list the `Project Role` that transitively creates the association between the object and the current group.
 
 ### Can I export group usage data?
 
