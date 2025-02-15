@@ -3,6 +3,8 @@
 
 <img alt="icon" src="{{ 'assets/group-icon.svg' | relative_url }}" width="32" height="32"/> 
 
+Using the [Leng Group Debugger](https://marketplace.atlassian.com/1236381) app for Jira, you cand determine where groups are used in your Jira instance, and identify + clean up group references across your projects.
+
 1. Contents
 {:toc}
 
