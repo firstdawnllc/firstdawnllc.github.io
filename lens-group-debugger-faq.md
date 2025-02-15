@@ -22,6 +22,12 @@ The group detail page shows Project Roles, Custom Field references, Permission S
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
+### What does `Self` mean in the `Related Via` Column of the Related Objects table?
+
+If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). 
+
+Some objects can be related to a group transitively via a `Project Role` that is - in turn - associated to the group. Those objects `Related Via` column will instead list the `Project Role` that transitively creates the association between the object and the current group.
+
 ### Can I find filters that are related to my group via plaintext references in their JQL?
 
 Yes, the group debugger page will show you Filters that are related to your group by the appearance of the group name in the JQL text. These relationships will be specifically categorized as `Filter Jql Content` in the related objects table. 
