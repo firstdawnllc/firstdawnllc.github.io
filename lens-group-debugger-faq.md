@@ -6,8 +6,21 @@
 1. Contents
 {:toc}
 
-### How can I debug a group?
-Open the Lens Group Debugger app, choose a group from the list of groups to debug. View users and related objects on the details page for that group.
+### What information is available on the group summary page?
+
+The group summary page renders a table with counts of related Users, Project Roles, Custom Fields, Permission Schemes, Issue Security Schemes, Notification Schemes, and Workflows in your groups.
+
+### What information is available on the group detail page?
+
+The group detail page shows Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group.
+
+The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
+
+## Additional Links
+- [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
+- [Privacy Policy](/lens-gropu-debugger-privacy)
+- [End User License Agreement](lens-group-debugger-eula)
+- [Lens Group Debugger on Atlassian Marketplace](https://marketplace.atlassian.com/1236381)
 
 ### Related Jira Feature Requests + Community Posts
 
@@ -21,9 +34,3 @@ Open the Lens Group Debugger app, choose a group from the list of groups to debu
 - [Community - How to find what Projects a Group has access too (based on Roles) in CLOUD?](https://community.atlassian.com/t5/Jira-questions/How-to-find-what-Projects-a-Group-has-access-too-based-on-Roles/qaq-p/2766557)
 - [Community - How do i see which projects a Group has access/permissions/roles assigned to.](https://community.atlassian.com/t5/Jira-questions/How-do-i-see-which-projects-a-Group-has-access-permissions-roles/qaq-p/1926811)
 - [Community - How to find out permissions assigned to a group?](https://community.atlassian.com/t5/Jira-questions/How-to-find-out-permissions-assigned-to-a-group/qaq-p/2496686)
-- 
-## Additional Links
-- [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
-- [Privacy Policy](/lens-gropu-debugger-privacy)
-- [End User License Agreement](lens-group-debugger-eula)
-- [Lens Group Debugger on Atlassian Marketplace](https://marketplace.atlassian.com/1236381)
