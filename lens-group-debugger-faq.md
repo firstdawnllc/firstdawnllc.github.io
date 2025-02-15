@@ -22,6 +22,12 @@ The group detail page shows Project Roles, Custom Field references, Permission S
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
+### How can I request a discount?
+If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
+
+### How can I get support?
+Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
+
 ### Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/lens-gropu-debugger-privacy)
