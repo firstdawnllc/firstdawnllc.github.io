@@ -22,6 +22,12 @@ The group detail page shows Project Roles, Custom Field references, Permission S
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
+### Can I find filters that are related to my group via plaintext references in their JQL?
+
+Yes, the group debugger page will show you Filters that are related to your group by the appearnace of the group name in the JQL text. You'll also see Filters that are related via Edit/Share permissions to your group (potentially via a transitive Project Role relationship):
+
+![lens-group-debugger-filter-page](/assets/lens-group-debugger-filter-page.png)
+
 ### Can I export group usage data?
 
 You can export data that shows objects a group is related to. Access the report by clicking on the download icon on the group detail page. The report is formatted in JSON. Reach out to us if you need more help with the export feature.
