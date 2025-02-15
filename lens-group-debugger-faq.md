@@ -26,3 +26,4 @@ Open the Lens Group Debugger app, choose a group from the list of groups to debu
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/lens-gropu-debugger-privacy)
 - [End User License Agreement](lens-group-debugger-eula)
+- [Lens Group Debugger on Atlassian Marketplace](https://marketplace.atlassian.com/1236381)
