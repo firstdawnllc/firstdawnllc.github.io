@@ -10,9 +10,13 @@
 
 The group summary page renders a table with counts of related Users, Project Roles, Custom Fields, Permission Schemes, Issue Security Schemes, Notification Schemes, and Workflows in your groups.
 
+![lens-group-debugger-summary-page](/assets/lens-group-debugger-list-page.png)
+
 ### What information is available on the group detail page?
 
 The group detail page shows Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group.
+
+![lens-group-debugger-detail-page](/assets/lens-group-debugger-detail-page.png)
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
