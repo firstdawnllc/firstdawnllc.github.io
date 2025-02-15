@@ -1,4 +1,4 @@
-## Lens Group Debugger FAQ
+## Lens Group Debugger FAQs
 {:.no_toc}
 
 <img alt="icon" src="{{ 'assets/group-icon.svg' | relative_url }}" width="32" height="32"/> 
