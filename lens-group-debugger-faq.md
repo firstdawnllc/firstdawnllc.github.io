@@ -30,6 +30,8 @@ You'll also see Filters that are related via Edit/Share permissions to your grou
 
 ![lens-group-debugger-filter-page](/assets/lens-group-debugger-filter-page.png)
 
+The `Detail` column also includes the name of the Filter's owner (e.g. `Dorothy Gale`), and its share status.
+
 ### What does `Self` mean in the `Related Via` Column of the Related Objects table?
 
 If an object is directly associated to a group, then we consider the related object to be associated to the group via its self (aka `Self`). For example, an `Issue Security Scheme Level` like `Allowed Users Only` can be associated directly to a group.
