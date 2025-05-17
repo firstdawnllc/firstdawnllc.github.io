@@ -22,7 +22,7 @@ The group detail page shows Projects, Project Roles, Custom Field references, Pe
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
-### Can I find what projects are related to or otherwise using my group?
+### Can I find what projects use my group?
 
 Yes, the group debugger page includes a tab that loads projects that are related to your group (via Project Role, Custom Field, Permission Scheme, Issue Security Scheme, Notification Scheme, or Workflow relations):
 
