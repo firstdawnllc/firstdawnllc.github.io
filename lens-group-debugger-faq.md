@@ -22,6 +22,18 @@ The group detail page shows Projects, Project Roles, Custom Field references, Pe
 
 The group detail page also has counts of line-item level sub-objects including Permission Scheme Permission, Issue Security Scheme Level, Notification Scheme Event, Workflow Condition, and Filter Share/Edit/JQL.
 
+### Can I find what projects are related to or otherwise using my group?
+
+Yes, the group debugger page includes a tab that loads projects that are related to your group (via Project Role, Custom Field, Permission Scheme, Issue Security Scheme, Notification Scheme, or Workflow relations):
+
+![lens-group-debugger-projects.png](/assets/lens-group-debugger-projects.png)
+
+By default, the debugger lists out the projects that are related. But, you can also use the debugger to drill down into a specific project and see what child objects create the relationship between that project and the group.
+
+For example, the following screenshot shows a drill down into the `TC` project...the `TC` related to the current group via 3 objects: a Custom Field reference, a Notification Scheme reference, and a nested Notification Scheme Event line item reference:
+
+![lens-group-debugger-project-drill-down.png](/assets/lens-group-debugger-project-drill-down.png)
+
 ### Can I find filters that are related to my group via plaintext references in their JQL?
 
 Yes, the group debugger page will show you Filters that are related to your group by the appearance of the group name in the JQL text. These relationships will be specifically categorized as `Filter Jql Content` in the related objects table. 
