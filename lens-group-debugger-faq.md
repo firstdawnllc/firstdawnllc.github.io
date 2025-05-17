@@ -16,7 +16,7 @@ The group summary page renders a table with counts of related Users, Project Rol
 
 ### What information is available on the group detail page?
 
-The group detail page shows Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group:
+The group detail page shows Projects, Project Roles, Custom Field references, Permission Schemes, Issue Security Schemes, Notification Schemes, Workflows, and Filter Shares/Edits/JQL related to a group:
 
 ![lens-group-debugger-detail-page](/assets/lens-group-debugger-detail-page.png)
 
