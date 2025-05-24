@@ -56,11 +56,20 @@ You can export data that shows objects a group is related to. Access the report 
 
 ![lens-group-debugger-download-page](/assets/lens-group-debugger-download-page.png)
 
+### How can I request a feature be added to Lens Group Debugger's Roadmap?
+If there is a feature you'd like us to add to Lens Group Debugger, send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
 ### How can I get support?
 Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
+
+### Release Notes
+
+- `3.44.0`: add tab to group detail page that lists projects related to the current group.
+- `3.0.0` - `3.43.0`: bug fixes + minor enhancements.
+- `3.0.0`: initial release.
 
 ### Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
