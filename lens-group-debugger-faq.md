@@ -68,7 +68,7 @@ If there is a feature you'd like us to add to Lens Group Debugger, send us a mes
 ### Release Notes
 
 - `3.44.0`
-    - Add `Projects` tab to group detail page that lists projects related to the current group.
+    - Add Projects tab to group detail page that lists projects related to the current group.
 - `3.0.0` - `3.43.0`
     - Bug fixes + minor enhancements.
 - `3.0.0`
