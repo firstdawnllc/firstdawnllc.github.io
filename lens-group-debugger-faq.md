@@ -66,7 +66,10 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 If there is a feature you'd like us to add to Lens Group Debugger, send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
 
 ### Release Notes
-
+- `3.46.0`
+    - Add ability to render links to [Atlassian's old user managment experience](https://community.atlassian.com/forums/Enterprise-articles/Cloud-admins-we-re-saving-you-time-on-user-management/ba-p/2588292) - for instances that Atlassian hasn't yet updated to the new user management experience.
+- `3.45.0`
+    - Bug fixes + minor enhancements.
 - `3.44.0`
     - Add Projects tab to group detail page that lists projects related to the current group.
 - `3.0.0` - `3.43.0`
