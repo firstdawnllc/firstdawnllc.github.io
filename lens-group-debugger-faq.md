@@ -58,7 +58,7 @@ You can export data that shows objects a group is related to. Access the report 
 
 ### Can I make Lens Group Debugger generate Group and User URLs for [Atlassian's old user management experience](https://community.atlassian.com/forums/Enterprise-articles/Cloud-admins-we-re-saving-you-time-on-user-management/ba-p/2588292)?
 
-Yes, if your instance has not yet been migrated (and remains on [Atlassian's old user management experience](https://community.atlassian.com/forums/Enterprise-articles/Cloud-admins-we-re-saving-you-time-on-user-management/ba-p/2588292)), you can use toggle a flag to render links that route to Atlassian’s old user management experience:
+Yes. If your instance still uses [Atlassian's old user management experience](https://community.atlassian.com/forums/Enterprise-articles/Cloud-admins-we-re-saving-you-time-on-user-management/ba-p/2588292)), you can use toggle a flag to render links that route to Atlassian’s old user management experience:
 
 ![lens-group-debugger-old-user-management-toggle](/assets/lens-group-debugger-old-user-management-toggle.png)
 
