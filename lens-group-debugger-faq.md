@@ -75,6 +75,8 @@ If there is a feature you'd like us to add to Lens Group Debugger, send us a mes
 
 ### Release Notes
 
+- `3.52.0`
+    - Bug fixes + minor enhancements.
 - `3.51.0`
     - For related Workflows + Workflow Conditions, provide deep link to [new](https://developer.atlassian.com/platform/forge/changelog/#CHANGE-2896) Workflow Editor.
 - `3.47.0 - 3.50.0`
