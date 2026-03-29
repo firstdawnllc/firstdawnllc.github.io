@@ -94,7 +94,7 @@ If there is a feature you'd like us to add to Lens Group Debugger, send us a mes
 
 ### Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
-- [Privacy Policy](/lens-gropu-debugger-privacy)
+- [Privacy Policy](/lens-group-debugger-privacy)
 - [End User License Agreement](lens-group-debugger-eula)
 - [Lens Group Debugger on Atlassian Marketplace](https://marketplace.atlassian.com/1236381)
 
