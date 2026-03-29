@@ -1,0 +1,23 @@
+## Filtered Group Picker FAQs
+{:.no_toc}
+
+<img alt="icon" src="{{ 'assets/filtered-group-picker-icon.svg' | relative_url }}" width="32" height="32"/> 
+
+Using the Filtered Group Picker app for Jira, you can create group picker fields that allows user to pick from specific sets of groups.
+
+1. Contents
+{:toc}
+
+### How can I request a discount?
+If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
+
+### How can I get support?
+Send us a message through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1).
+
+### Additional Links
+- [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
+- [Privacy Policy](/filtered-group-picker-privacy)
+
+### Related Jira Feature Requests + Community Posts
+
+- [JRACLOUD-61856 Limit group picker to filter out desired groups](https://jira.atlassian.com/browse/JRACLOUD-61856)
