@@ -1,7 +1,7 @@
 ## Filtered Group Picker FAQs
 {:.no_toc}
 
-<img alt="icon" src="{{ 'assets/filtered-group-picker.svg' | relative_url }}" width="32" height="32"/> 
+<img alt="icon" src="{{ 'assets/filtered-group-picker-icon.svg' | relative_url }}" width="32" height="32"/> 
 
 Using the Filtered Group Picker app for Jira, you can create group picker fields that allows user to pick from specific sets of groups.
 
