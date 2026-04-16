@@ -71,5 +71,5 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 ## Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/issue-star-privacy)
-- [End User License Agreement](issue-star-eula)
+- [End User License Agreement](https://www.atlassian.com/licensing/marketplace/end-user-agreement-v1)
 - [Issue Star on Atlassian Marketplace](https://marketplace.atlassian.com/1234079)
