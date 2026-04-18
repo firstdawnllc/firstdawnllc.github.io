@@ -8,15 +8,17 @@ Using the Filtered Group Picker app for Jira, you can create group picker fields
 1. Contents
 {:toc}
 
-### How do I configure a group picker custom field so it only allow selecting from a set of specific groups?
+### What kind of fields can I create with the Filtered Group Picker app?
 
-The Filtered Group Picker app provides two custom field types: `Group Picker (multiple, with filters)` and `Group Picker (single, with filters)`. Create a custom field with one of these types, and then navigate to the `Custom field config` page:
+You can create group picker custom fields that only allows selecting from a set of specific groups that you, as an admin, define.
+
+The Filtered Group Picker app provides two custom field types: (1) `Group Picker (multiple, with filters)`, and (2) `Group Picker (single, with filters)`. Create a custom field with one of these types, and then navigate to the `Custom field config` page.
 
 ![filtered-group-picker-edit-custom-field-config](/assets/filtered-group-picker-edit-custom-field-config.png)
 
 You can either choose exactly which groups you'd like to appear in your group picker dropdown (e.g. `system-administrators`, and `org-admins` in the following example):
 
-![filtered-group-picker-issue-view.png](/assets/filtered-group-picker-issue-view.png)
+![filtered-group-picker-specific-groups](/assets/filtered-group-picker-specific-groups.png)
 
 Or, you can configure a custom [regular expression](https://en.wikipedia.org/wiki/Regular_expression) to match specific groups by patterns in their names. You could, for example, match groups whose name starts/ends with specific characters. In the following example, we just configure a simple regex that matches either `system-administrators` or `org-admins`:
 
@@ -30,25 +32,37 @@ Now, you'll now have a custom filtered group picker field that limits the groups
 
 ### How do I create a new custom Filtered Group Picker field?
 
-First, click the gear icon in the top right corner and select `Work items`:
+**1. First, click the gear icon in the top right corner and select `Work items`:**
 
 ![filtered-group-picker-work-items-setting](/assets/filtered-group-picker-work-items-setting.png)
 
-Next, click the `Fields` link on the left hand side of the screen:
+**2. Click the `Fields` link on the left hand side of the screen:**
 
 ![filtered-group-picker-fields](/assets/filtered-group-picker-fields.png)
 
-Then, click `Create new Field` in the right hand side and select either `Group Picker (multiple, with filters)`, or `Group Picker (single, with filters)`:
+**3. Click `Create new Field` in the right hand side and select either `Group Picker (multiple, with filters)`, or `Group Picker (single, with filters)`:**
 
 ![filtered-group-picker-create-field](/assets/filtered-group-picker-create-field.png)
 
-Then, click the three dots `...` menu item on your newly created field and select `Contexts and default values`:
+**4. Click the three dots `...` menu item on your newly created field and select `Contexts and default values`:**
 
 ![filtered-group-picker-contexts-and-default-values](/assets/filtered-group-picker-contexts-and-default-values.png)
 
-Finally, click the `Edit custom field config` link, and you'll be able to configure your filtered group picker so that it restricts itself to a specfic set of groups (either by exact match, or with a regular expression):
+**5. Click the `Edit custom field config` link:**
 
 ![filtered-group-picker-edit-custom-field-config](/assets/filtered-group-picker-edit-custom-field-config.png)
+
+**6. Finally, and you'll be able to configure your filtered group picker so that it restricts itself to a specfic set of groups (either by exact match, or with a regular expression).**
+
+e.g. Choosing specific groups:
+
+![filtered-group-picker-specific-groups](/assets/filtered-group-picker-specific-groups.png)
+
+e.g. Creating a custom regular expression:
+
+![filtered-group-picker-regex](/assets/filtered-group-picker-regex.png)
+
+**7. Now - on your issues - you'll be able to add a group picker field that limits itself to only the specific set of groups you configured:**
 
 ![filtered-group-picker-issue-view.png](/assets/filtered-group-picker-issue-view.png)
 
