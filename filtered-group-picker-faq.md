@@ -17,6 +17,7 @@ Send us a message through the [support portal](https://firstdawnllc.atlassian.ne
 ### Additional Links
 - [Support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1)
 - [Privacy Policy](/filtered-group-picker-privacy)
+- [End User License Agreement](https://www.atlassian.com/licensing/marketplace/end-user-agreement-v1)
 
 ### Related Jira Feature Requests + Community Posts
 
