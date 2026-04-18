@@ -8,9 +8,7 @@ Using the Filtered Group Picker app for Jira, you can create group picker fields
 1. Contents
 {:toc}
 
-### What kind of fields can I create with the Filtered Group Picker app?
-
-You can create group picker custom fields that only allows selecting from a set of specific groups that you, as an admin, define.
+### How can I use the Filtered Group Picker app to create custom fields that only allow selecting from a set of pre-defined groups?
 
 The Filtered Group Picker app provides two custom field types: (1) `Group Picker (multiple, with filters)`, and (2) `Group Picker (single, with filters)`. Create a custom field with one of these types, and then navigate to the `Custom field config` page.
 
