@@ -30,27 +30,27 @@ Finally, you'll now have a custom filtered group picker field that limits the gr
 
 ### How do I create a new custom Filtered Group Picker field?
 
-- 1. First, click the gear icon in the top right corner and select `Work items`:
+1) First, click the gear icon in the top right corner and select `Work items`:
 
 ![filtered-group-picker-work-items-setting](/assets/filtered-group-picker-work-items-setting.png)
 
-- 2. Click the `Fields` link on the left hand side of the screen:
+2) Click the `Fields` link on the left hand side of the screen:
 
 ![filtered-group-picker-fields](/assets/filtered-group-picker-fields.png)
 
-- 3. Click `Create new Field` in the right hand side and select either `Group Picker (multiple, with filters)`, or `Group Picker (single, with filters)`:
+3) Click `Create new Field` in the right hand side and select either `Group Picker (multiple, with filters)`, or `Group Picker (single, with filters)`:
 
 ![filtered-group-picker-create-field](/assets/filtered-group-picker-create-field.png)
 
-- 4. Click the three dots `...` menu item on your newly created field and select `Contexts and default values`:
+4) Click the three dots `...` menu item on your newly created field and select `Contexts and default values`:
 
 ![filtered-group-picker-contexts-and-default-values](/assets/filtered-group-picker-contexts-and-default-values.png)
 
-- 5. Click the `Edit custom field config` link:
+5) Click the `Edit custom field config` link:
 
 ![filtered-group-picker-edit-custom-field-config](/assets/filtered-group-picker-edit-custom-field-config.png)
 
-- 6. Finally, and you'll be able to configure your filtered group picker so that it restricts itself to a specfic set of groups (either by exact match, or with a regular expression).
+6) Finally, and you'll be able to configure your filtered group picker so that it restricts itself to a specfic set of groups (either by exact match, or with a regular expression).
 
 e.g. Choosing specific groups:
 
@@ -60,7 +60,7 @@ e.g. Creating a custom regular expression:
 
 ![filtered-group-picker-regex](/assets/filtered-group-picker-regex.png)
 
-- 7. Now - on your issues - you'll be able to add a group picker field that limits itself to only the specific set of groups you configured:
+7) Now - on your issues - you'll be able to add a group picker field that limits itself to only the specific set of groups you configured:
 
 ![filtered-group-picker-issue-view.png](/assets/filtered-group-picker-issue-view.png)
 
