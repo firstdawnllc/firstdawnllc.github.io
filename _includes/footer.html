@@ -5,31 +5,29 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-<!--         <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p> -->
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+        <div class="footer-brand">
+          <img alt="First Dawn LLC" src="{{ 'assets/icon.svg' | relative_url }}" width="28" height="28"/>
+          {%- if site.author %}
+          <ul class="contact-list">
+            {% if site.author.name -%}
+              <li class="p-name">{{ site.author.name | escape }}</li>
+            {% endif -%}
+            {% if site.author.email -%}
+              <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
+            {%- endif %}
+          </ul>
           {%- endif %}
-        </ul>
-      {%- endif %}
+        </div>
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
-    </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
+      <div class="footer-col footer-links-col">
+        <ul class="footer-nav">
+          <li><a href="https://marketplace.atlassian.com/vendors/1226209/" target="_blank" rel="noopener noreferrer">Atlassian Marketplace ↗</a></li>
+          <li><a href="https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1" target="_blank" rel="noopener noreferrer">Support Portal ↗</a></li>
+        </ul>
+      </div>
     </div>
 
   </div>

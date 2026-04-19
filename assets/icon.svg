@@ -1,7 +1,40 @@
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
-<svg height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" xml:space="preserve" fill="#000000">
-<g id="SVGRepo_bgCarrier" stroke-width="0"/>
-<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
-<g id="SVGRepo_iconCarrier"> <path style="fill:#FFE98F;" d="M256,0l-82.096,57.779L74.98,74.98l-17.202,98.925L0,256l57.78,82.094l17.202,98.924l98.924,17.203 L256,512l82.094-57.779l98.925-17.2l17.202-98.924L512,256l-57.779-82.094L437.02,74.983l-98.924-17.205L256,0L256,0z"/> <g> <polygon style="fill:#FFDA44;" points="454.221,173.906 437.02,74.983 338.096,57.779 256,0 256,512 338.094,454.221 437.018,437.021 454.22,338.097 512,256 "/> <polygon style="fill:#FFDA44;" points="190.187,414.917 110.876,401.124 97.085,321.813 50.764,256 97.085,190.186 110.876,110.874 190.186,97.084 256,50.764 321.813,97.084 401.124,110.877 414.915,190.187 461.236,256 414.915,321.817 401.124,401.126 321.813,414.917 256,461.236 "/> </g> <polygon style="fill:#FF9811;" points="414.915,190.187 401.124,110.877 321.813,97.084 256,50.764 256,461.236 321.813,414.917 401.124,401.126 414.915,321.817 461.236,256 "/> <circle style="fill:#FF5023;" cx="256" cy="256" r="145.297"/> <path style="fill:#BF3C1A;" d="M256,110.703c80.246,0,145.297,65.052,145.297,145.297S336.246,401.297,256,401.297"/> </g>
+<svg width="680" height="680" viewBox="0 0 680 680" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="circleClip">
+<circle cx="340" cy="340" r="260"/>
+</clipPath>
+</defs>
+
+<!-- Circle background -->
+<circle cx="340" cy="340" r="260" fill="#1e3d5e" stroke="#1e3d5e" stroke-width="8"/>
+
+<!-- Clipped interior -->
+<g clip-path="url(#circleClip)">
+<!-- Deep sky -->
+<rect x="60" y="60" width="560" height="560" fill="#1e3d5e"/>
+
+<!-- Warm horizon glow -->
+<ellipse cx="340" cy="390" rx="320" ry="160" fill="#d4482a" opacity="0.2"/>
+<ellipse cx="340" cy="390" rx="240" ry="110" fill="#e8652e" opacity="0.25"/>
+<ellipse cx="340" cy="390" rx="160" ry="65" fill="#f5a623" opacity="0.35"/>
+
+<!-- Sun half-circle -->
+<circle cx="340" cy="390" r="72" fill="#f5a623"/>
+<rect x="80" y="390" width="520" height="220" fill="#1e3d5e"/>
+
+<!-- Sun rays (7 total) -->
+<line x1="340" y1="268" x2="340" y2="220" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="394" y1="278" x2="420" y2="238" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="440" y1="306" x2="478" y2="282" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="478" y1="346" x2="520" y2="336" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="286" y1="278" x2="260" y2="238" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="240" y1="306" x2="202" y2="282" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+<line x1="202" y1="346" x2="160" y2="336" stroke="#f5a623" stroke-width="4" stroke-linecap="round"/>
+
+<!-- Horizon line -->
+<line x1="100" y1="390" x2="580" y2="390" stroke="#f5a623" stroke-width="3" stroke-linecap="round"/>
+</g>
+
+<!-- Muted slate border -->
+<circle cx="340" cy="340" r="260" fill="none" stroke="#3d5a6e" stroke-width="4"/>
 </svg>
