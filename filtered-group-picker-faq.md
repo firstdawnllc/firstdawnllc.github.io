@@ -24,7 +24,7 @@ Or, you can configure a custom [regular expression](https://en.wikipedia.org/wik
 
 You can write more complex regular expressions to match custom group sets by patterns in their names.
 
-Now, you'll now have a custom filtered group picker field that limits the groups that appear in the drop down to a specific set:
+Finally, you'll now have a custom filtered group picker field that limits the groups that appear in the drop down to a specific set:
 
 ![filtered-group-picker-issue-view](/assets/filtered-group-picker-issue-view.png)
 
