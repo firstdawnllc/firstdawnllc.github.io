@@ -10,3 +10,9 @@ header_pages:
   - lens-group-debugger-faq.md
   - issue-star-faq.md
   - comment-to-issue-faq.md
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
