@@ -48,6 +48,17 @@ layout: home
 
   <div class="app-card">
     <div class="app-card-header">
+      <img src="/assets/filtered-group-picker-icon.svg" alt="Filtered Group Picker"/>
+      <h3>Filtered Group Picker</h3>
+    </div>
+    <p>Create group picker fields that allow users to select from specific sets of groups.</p>
+    <div class="app-card-links">
+      <a href="/filtered-group-picker-faq">FAQ</a>
+    </div>
+  </div>
+
+  <div class="app-card">
+    <div class="app-card-header">
       <img src="/assets/star-favorite-svgrepo.svg" alt="Issue Star"/>
       <h3>Issue Star</h3>
     </div>

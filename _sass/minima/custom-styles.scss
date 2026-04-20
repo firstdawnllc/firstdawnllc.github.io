@@ -21,6 +21,25 @@ a:visited { color: darken($accent, 10%); }
   background: #fff;
   box-shadow: $shadow-sm;
 
+  @media screen and (min-width: 601px) {
+    .wrapper { display: flex; align-items: center; }
+
+    .site-nav {
+      flex: 1;
+
+      .trigger {
+        display: flex;
+        align-items: center;
+
+        // Minima sets margin-left: auto on all page-links; reset so our layout controls spacing
+        .page-link { margin-left: 0; }
+
+        // Apps stays left, everything after it is pushed right
+        a:first-child { margin-right: auto; margin-left: 1.5rem; }
+      }
+    }
+  }
+
   .site-title {
     display: flex;
     align-items: center;
@@ -43,6 +62,7 @@ a:visited { color: darken($accent, 10%); }
 
     &:hover { color: $accent; text-decoration: none; }
   }
+
 }
 
 // ── Homepage ───────────────────────────────────────────────────────────────────
