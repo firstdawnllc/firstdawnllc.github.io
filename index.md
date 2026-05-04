@@ -54,6 +54,7 @@ layout: home
     <p>Create group picker fields that allow users to select from specific sets of groups.</p>
     <div class="app-card-links">
       <a href="/filtered-group-picker-faq">FAQ</a>
+      <a href="https://marketplace.atlassian.com/591994077" target="_blank" rel="noopener noreferrer" class="secondary">Marketplace ↗</a>      
     </div>
   </div>
 
