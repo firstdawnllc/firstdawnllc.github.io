@@ -5,7 +5,7 @@ We respect your privacy and are committed to protecting your personal informatio
 ### Information We Collect
 We may collect personal information that you voluntarily provide to us, such as your name, email address, and any other information you provide when contacting us or using our services.
 
-When you install the Pinned Comments app on Jira, all your data is stored on Atlassian's servers or locally on your device. We do not have access to your project data.
+When you install the Pinned Comments app on Jira, all your data is stored on Atlassian's servers or locally on your device. We do not have access to your project data. The generates debug logs that you have access to via Atlassian's platform. You also can [choose to disable our access to those debug logs](https://support.atlassian.com/organization-administration/docs/managing-an-installed-app/#Manage-access-to-logs) if you choose.
 
 ### How We Use Your Information
 We use the information we collect to provide and improve our services, communicate with you, and fulfill your requests.
