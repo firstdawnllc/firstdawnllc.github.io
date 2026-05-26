@@ -47,6 +47,14 @@ A third place you can view pinned comments is in a dedicated issue activity at t
 
 ![pinned-comments-view-issue-activity-bottom](/assets/pinned-comments-view-issue-activity-bottom.png)
 
+### How can I pin a comment from inside a Jira Automation?
+
+You can use the `Pin Comment` Action from within [Jira Automation](https://www.atlassian.com/software/jira/guides/automation/overview) to pin a comment. 
+
+You can, for example, set up an action that pins the most recent comment on your issue by using the `{{issue.comments.last.id}}` smart value for comment ID:
+
+![pinned-comments-automation](/assets/pinned-comments-automation.png)
+
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
 
