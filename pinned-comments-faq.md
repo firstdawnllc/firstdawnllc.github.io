@@ -51,7 +51,7 @@ A third place you can view pinned comments is in a dedicated issue activity at t
 
 You can use the `Pin Comment` Action from within [Jira Automation](https://www.atlassian.com/software/jira/guides/automation/overview) to pin a comment. 
 
-You can, for example, set up an action that pins the most recent comment on your issue by using the `{{issue.comments.last.id}}` smart value for comment ID:
+You can, for example, set up an action that pins the most recent comment on your issue by using the {% raw %}`{{issue.comments.last.id}}`{% endraw %} smart value for comment ID:
 
 ![pinned-comments-automation](/assets/pinned-comments-automation.png)
 
