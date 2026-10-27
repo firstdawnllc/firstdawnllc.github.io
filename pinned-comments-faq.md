@@ -59,7 +59,7 @@ For issue based automations, you can use `{% raw %}`{{issue.key}}`{% endraw %}` 
 
 ### Does Pinned Comments respect Jira's built-in comment visibility feature?
 
-Yes, Pinned Comments respects Jira's built-in comment sisibility feature. For example, if a comment is restricted to a specific project role, the pinned comment will remain visible only to users with that role.
+Yes, Pinned Comments respects Jira's built-in comment visibility feature. For example, if a comment is restricted to a specific project role, the pinned comment will remain visible only to users with that role.
 
 ### How can I request a discount?
 If you'd like to request a discount, contact us through the [support portal](https://firstdawnllc.atlassian.net/servicedesk/customer/portal/1) and we'll work together to get you set up.
